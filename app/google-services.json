@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "781684983256",
+    "firebase_url": "https://pentip-29ab1.firebaseio.com",
+    "project_id": "pentip-29ab1",
+    "storage_bucket": "pentip-29ab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781684983256:android:9d160185dd5b8cb8",
+        "android_client_info": {
+          "package_name": "cz.inovett.pentip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781684983256-s7boh5519scg3tcbfkhf5jg0cd6o7mhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvpAIdqwJv3BccfpJwCZzTlez3G_qLBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
